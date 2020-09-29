@@ -1,0 +1,20 @@
+body{
+    color: rebeccapurple;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#contenedor
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid red;
+}
+#container h1
+{
+    font-size: 20px;
+
+}
