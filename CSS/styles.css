@@ -12,6 +12,7 @@ body{
     padding: 1em;
     text-align: left;
     border: 1px solid red;
+    margin: auto;
 }
 #container h1
 {
