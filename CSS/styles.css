@@ -1,6 +1,21 @@
-body
-{
-    color: deeppink;
+body{
+    color: rebeccapurple;
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: fantasy;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#contenedor
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
+
 }
